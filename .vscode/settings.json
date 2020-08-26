@@ -1,0 +1,9 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "d:\\htdocs\\javalibs\\jogamp-all-platforms\\jar\\jogl-all.jar",
+    "d:\\htdocs\\javalibs\\jogamp-all-platforms\\jar\\gluegen-rt.jar",
+    "d:\\htdocs\\javalibs\\joml-1.9.25.jar"
+  ],
+  "editor.tabSize": 4
+}
